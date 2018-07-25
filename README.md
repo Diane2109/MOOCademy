@@ -1,9 +1,9 @@
 # README
 
 # Application MoocAcademy
-Salut moussaillon tu vas bien?
+Salut moussaillon tu vas bien ?
 
-Dans ce README il y a un exo d'une app rails de MoocAcademy, avec des models et des associations.
+Dans ce README il y a un exo d'une app rails de MoocAcademy, avec des models et des associations. Il a été réalisée par Diane avec l'équipe des six stars !
 
 # Lancer l'appli
 Télécharge ou clone le repo
